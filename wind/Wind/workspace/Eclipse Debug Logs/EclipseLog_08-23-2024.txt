@@ -1,0 +1,7 @@
+ECLIPSE DEBUG LOG (08-23-2024) - Successfully Opened
+WARNING:   THESE LOGS MAY CONTAIN SENSITIVE INFORMATION. I.E USERNAMES AND POSSIBLY HWID'S.
+Version UUID: eol_1, Test Copy: nil, Is Synapse: false
+
+---------------Log Start---------------
+
+[19:11:58]: (Loading) Rejoined brockarocka. Rejoined 1 times.
